@@ -1,0 +1,8 @@
+nav>
+  <a href="/">Home</a>
+  <a href="/arrays">Arrays</a>
+  <a href="/demos">Demos</a>
+  <a href="/score">Score</a>
+</nav>
+
+<slot></slot>
